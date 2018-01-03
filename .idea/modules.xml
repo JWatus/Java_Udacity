@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Udacity.iml" filepath="$PROJECT_DIR$/Java_Udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Udacity_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Udacity_main.iml" group="Java_Udacity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Udacity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Udacity_test.iml" group="Java_Udacity" />
     </modules>
   </component>
 </project>
